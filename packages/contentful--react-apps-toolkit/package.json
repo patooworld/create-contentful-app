@@ -38,7 +38,7 @@
     "@contentful/app-sdk": ">=4.0.0",
     "@testing-library/react": "12.1.5",
     "@testing-library/react-hooks": "8.0.1",
-    "@types/jest": "27.4.0",
+    "@types/jest": "27.5.2",
     "@types/react": "17.0.2",
     "jest": "27.5.0",
     "react": "17.0.2",
